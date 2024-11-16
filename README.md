@@ -4,31 +4,50 @@ Descrição: Um jogo simples e divertido onde você tenta adivinhar um número a
 
 Funcionamento:
 
-O jogador é apresentado com uma mensagem de início e instruições para escolher um número.
-O jogador insere seu chute em um campo de texto e pressiona Enter.
-Se o chute for correto, o jogador é declarado vencedor e recebe uma mensagem de congratulação.
-Se o chute for incorreto, o jogador recebe uma dica sobre se o número secreto é maior ou menor que o seu chute.
-O jogo continua até que o jogador acerte o número secreto.
+. O jogador é apresentado com uma mensagem de início e instruições para escolher um número.
+
+. O jogador insere seu chute em um campo de texto e pressiona Enter.
+
+. Se o chute for correto, o jogador é declarado vencedor e recebe uma mensagem de congratulação.
+
+. Se o chute for incorreto, o jogador recebe uma dica sobre se o número secreto é maior ou menor que o seu chute.
+
+. O jogo continua até que o jogador acerte o número secreto.
+
+
 
 Características:
 
 . O número secreto é gerado aleatoriamente cada vez que o jogo é iniciado.
+
 . A lista de números sorteados é armazenada no navegador e não é persistente entre sessões.
+
 . O jogo é feito em tempo real, sem precisar de requisições ao servidor.
+
+
 
 Como jogar:
 
 . Abra o jogo em um navegador.
+
 . Leia as instruções e escolha um número entre 1 e 10.
+
 . Insira seu chute no campo de texto e pressione Enter.
+
 . Acesse o resultado do seu chute e tente novamente.
+
+
 
 Desenvolvimento:
 
 O jogo foi desenvolvido em JavaScript, usando as seguintes ferramentas:
+
 . HTML5 para a estrutura da página
+
 . CSS3 para estilo e layout
+
 . JavaScript para lógica de jogo
+
 
 Contribuições:
 
